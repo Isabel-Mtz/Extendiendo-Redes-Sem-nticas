@@ -1,0 +1,42 @@
+
+{
+"animales" : [
+    ["Tortuga", "Es", "Oviparos"],
+    ["Gallo", "Es", "Oviparos"],
+    ["Cocodrilo", "Es", "Oviparos"],
+    ["Iguana", "Es", "Oviparos"],
+    ["Gato", "Es", "Viviparos"],
+    ["Ballena", "Es", "Viviparos"],
+    ["Oso", "Es", "Viviparos"],
+    ["Delfin", "Es", "Viviparos"],
+    ["Viviparo", "Es", "Mammalia"],
+    ["Oviparo", "Es", "Sauropsidos"],
+    ["Sauropsidos", "Es", "Tetrapodos"],
+    ["Mammalia", "Es", "Tetrapodos"],
+    ["Tetrapodos", "Es", "Vertebrados"],
+    ["Tortuga", "Vive", "Tierra"],
+    ["Tortuga", "Vive", "Agua"],
+    ["Gallo", "Vive", "Tierra"],
+    ["Cocodrilo", "Vive", "Tierra"],
+    ["Cocodrilo", "Vive", "Agua"],
+    ["Iguana", "Vive", "Tierra"],
+    ["Gato", "Vive", "Tierra"],
+    ["Ballena", "Vive", "Agua"],
+    ["Oso", "Vive", "Tierra"],
+    ["Delfin", "Vive", "Agua"]  ,
+    ["Gallo", "Tiene", "Plumas"],
+    ["Cocodrilo", "Tiene", "Garras"],
+    ["Cocodrilo", "Tiene", "Escamas"],
+    ["Iguana", "Tiene", "Escamas"],
+    ["Iguana", "Tiene", "Garras"],
+    ["Gato", "Tiene", "G.mamarias"],
+    ["Gato", "Tiene", "Pelo"],
+    ["Gato", "Tiene", "Garras"],
+    ["Oso", "Tiene", "G.mamarias"],
+    ["Oso", "Tiene", "Pelo"],
+    ["Oso", "Tiene", "Garras"],     
+    ["Tortuga", "Tiene", "Garras"],
+    ["Delfin", "Tiene", "G.Mamarias"]          
+]
+}
+
